@@ -1,0 +1,5 @@
+bin/
+.vscode/
+example_testcase/
+example_testcase_output/
+.DS_Store
