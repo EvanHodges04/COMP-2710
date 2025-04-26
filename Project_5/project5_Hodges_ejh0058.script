@@ -1,0 +1,27 @@
+Script started on 2025-04-24 14:08:01-05:00
+bash-4.4$ ./project5_Hodges_ejh0058
+Banner id: 904232417
+producer produce item 7
+consumer consume item 7
+producer produce item 14
+consumer consume item 14
+producer produce item 21
+consumer consume item 21
+producer produce item 28
+consumer consume item 28
+producer produce item 35
+consumer consume item 35
+producer produce item 42
+consumer consume item 42
+producer produce item 49
+consumer consume item 49
+producer produce item 56
+consumer consume item 56
+producer produce item 63
+consumer consume item 63
+producer produce item 70
+consumer consume item 70
+bash-4.4$ exit
+exit
+
+Script done on 2025-04-24 14:08:42-05:00
